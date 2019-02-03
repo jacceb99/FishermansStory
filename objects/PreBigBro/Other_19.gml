@@ -19,7 +19,11 @@ reset_dialogue_defaults();
 	case 1:
 	
 		var i = 0;
-		myText[i]		= "Face the water and have the fishing rod marked in your inventory, then press rightclick on your mouse";
+		myText[i]		= "Face the water and have the fishing rod marked in your inventory, then press F on your keyboard";
+		mySpeaker[i]	= id;
+		
+		i++;
+		myText[i]		= "Then when you feel the fish press F again and focus your shi to catch the fish";
 		mySpeaker[i]	= id;
 	
 	

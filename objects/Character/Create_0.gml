@@ -15,6 +15,7 @@ state=states.pre;
 else
 {
 state=states.normal;
+sprite_index=sCharacterIdleSouth;
 }
 
 fishy=0;

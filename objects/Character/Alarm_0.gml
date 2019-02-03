@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Fishing Alarm
 // You can write your code in this editor
 
 if !instance_exists(FishingGame)
@@ -18,6 +18,23 @@ if !instance_exists(FishingGame)
 		sprite_index=sCharacterFishing3;
 			alarm[0]=30;
 		}
+	}
+	
+	
+	else if state=states.prefishing
+	{
+	if sprite_index=ani3
+	{
+	sprite_index=ani2;	
+	alarm[0]=random_range(120,400);
+	}
+		
+			else if sprite_index=ani2
+		{
+		sprite_index=ani3;
+			alarm[0]=90;
+		}
+		
 	}
 
 }

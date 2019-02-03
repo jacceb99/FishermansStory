@@ -20,10 +20,21 @@ instance_destroy();
 
 ds_list_destroy(Object);
 ds_list_destroy(Chance);
-
-with Character
+if room == r_PreGarden or room==r_PreHome
 {
-state=states.normal;	
+	with Character
+	{
+	state=states.pre;	
+	}
+	
+}
+
+else 
+{
+	with Character
+	{
+	state=states.normal;	
+	}
 }
 
 instance_destroy();
@@ -46,9 +57,21 @@ instance_destroy();
 ds_list_destroy(Object);
 ds_list_destroy(Chance);
 
-with Character
+if room == r_PreGarden or room==r_PreHome
 {
-state=states.normal;	
+	with Character
+	{
+	state=states.pre;	
+	}
+	
+}
+
+else 
+{
+	with Character
+	{
+	state=states.normal;	
+	}
 }
 
 instance_destroy();

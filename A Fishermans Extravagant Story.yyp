@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "31318b8e-844b-4139-8811-e9cbd207e7e9",
+            "Value": {
+                "id": "0597413a-661a-4b75-9fe9-34ba99e74953",
+                "resourcePath": "scripts\\CharacterPreFishing\\CharacterPreFishing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "31d3a21c-9668-4d26-b2f3-71d84825ebf6",
             "Value": {
                 "id": "5b914bc4-7231-44dd-869f-9ab546aeb79f",
@@ -883,6 +891,14 @@
             "Value": {
                 "id": "cf82b37e-096a-401c-8293-76998f023d4d",
                 "resourcePath": "views\\3a3d06e2-91e9-49af-b151-8d1f0f23df08.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3abd1a0a-dd88-4ca1-b99d-384411a272c0",
+            "Value": {
+                "id": "357b80ea-266d-4dcc-8936-ed8643339dfc",
+                "resourcePath": "views\\3abd1a0a-dd88-4ca1-b99d-384411a272c0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1243,6 +1259,14 @@
             "Value": {
                 "id": "8381ec14-c254-423e-b344-a187d54131d4",
                 "resourcePath": "sprites\\sPortraitMrWiseOldman\\sPortraitMrWiseOldman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5246ff41-c22b-4820-9e8e-2471e2b6938a",
+            "Value": {
+                "id": "33eb97fc-58a1-40a0-80d9-cae482670099",
+                "resourcePath": "sprites\\sCharacterPreSouthFishing4\\sCharacterPreSouthFishing4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1991,6 +2015,14 @@
             }
         },
         {
+            "Key": "9413e639-bcf0-4c59-afa7-f8ca0163c91a",
+            "Value": {
+                "id": "ac8d8f30-e2ac-4d75-a7be-683365626733",
+                "resourcePath": "sprites\\sCharacterPreSouthFishing1\\sCharacterPreSouthFishing1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94229103-93b3-4238-8f53-057ecc2f146c",
             "Value": {
                 "id": "3f296e01-dde4-4aa0-9b6f-b4005f73527c",
@@ -2375,6 +2407,14 @@
             }
         },
         {
+            "Key": "ac3c9e29-e2c4-4553-887b-ba304e9aa09a",
+            "Value": {
+                "id": "d93749f5-e261-49d1-b301-d82a0bd564c4",
+                "resourcePath": "sprites\\sCharacterPreSouthFishing2\\sCharacterPreSouthFishing2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ac3ce3cc-33ce-4ff1-ab8a-5c9108034b9c",
             "Value": {
                 "id": "870a0771-8868-481c-b3bb-7c355c137276",
@@ -2668,6 +2708,22 @@
                 "id": "61fa83f3-2c4e-41a4-bc68-f11d749b6521",
                 "resourcePath": "objects\\itemPickupRubyShark\\itemPickupRubyShark.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c318e53b-97c4-4a7d-8bb3-eb4cf57cf5c4",
+            "Value": {
+                "id": "e013ceff-88a6-415b-adb0-d13a597b007e",
+                "resourcePath": "sprites\\sCharacterPreSouthFishing3\\sCharacterPreSouthFishing3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c44c41ba-8884-49a9-b731-9c625ce84dcd",
+            "Value": {
+                "id": "decc03a9-2fb1-4f2d-8be9-7387b5b37973",
+                "resourcePath": "views\\c44c41ba-8884-49a9-b731-9c625ce84dcd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3400,6 +3456,7 @@
         "281b5f51-5e59-4c7b-bfd8-f8b48d76dc09",
         "10e21785-4072-4b97-9723-d2bfcb9e450c",
         "32b2ed40-8d98-487b-8b84-e699fb83b878",
+        "31318b8e-844b-4139-8811-e9cbd207e7e9",
         "1270a231-7db0-4924-a62a-d9ce51ae3d3f",
         "3617c53b-fbad-41c1-b107-7ab92fa8aaca",
         "8c296651-c031-4b1f-bd69-0a6b58852c62",

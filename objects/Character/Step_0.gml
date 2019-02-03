@@ -6,6 +6,7 @@ switch (state)
 {
 case states.normal: CharacterNormal(); break;
 case states.pre: CharacterPre(); break;
+case states.prefishing: CharacterPreFishing(); break;
 case states.fishing: CharacterFishing(); break;
 case states.battle: CharacterBattle(); break;
 }

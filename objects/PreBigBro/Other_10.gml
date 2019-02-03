@@ -1,4 +1,4 @@
-
+/// @description Dialouge 1
 reset_dialogue_defaults();
 
 

@@ -1,4 +1,5 @@
-///Dialouge 1
+/// @description Dialouge 2
+
 reset_dialogue_defaults();
 
 	
@@ -10,6 +11,10 @@ reset_dialogue_defaults();
 		
 		//Line 1
 		i++;
-		myText[i]		= "Go over to the pond and while you are facing the water and have the fishing rod marked in your inventory, press rightclick on your mouse";
+		myText[i]		= "Go over to the pond and while you are facing the water and have the fishing rod marked in your inventory, press F on your keyboard";
+		mySpeaker[i]	= id;
+	
+		i++;
+		myText[i]		= "Then when you feel the fish press F again and focus your shi to catch the fish";
 		mySpeaker[i]	= id;
 	
