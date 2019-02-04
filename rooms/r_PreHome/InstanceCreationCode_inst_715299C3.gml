@@ -1,0 +1,1 @@
+Text="It's my brothers diary, it looks worn out. The latest entry reads *June 15th: Another Brilliant day with the entire family! We were out by the lake again *"

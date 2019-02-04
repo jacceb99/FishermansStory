@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+depth=100;
 #region Setting the biomes and the chances of different fish
 randomize();
 sh=sprite_get_height(sFishingSlot);

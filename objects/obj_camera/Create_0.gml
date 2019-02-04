@@ -1,5 +1,5 @@
 following = Character;
 freeze = false;
-debug = false;
+debug = true;
 
-//show_debug_overlay(false);
+show_debug_overlay(true);

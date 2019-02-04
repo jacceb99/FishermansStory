@@ -11,7 +11,7 @@ reset_dialogue_defaults();
 		
 		//Line 1
 		i++;
-		myText[i]		= "I couldn't sleep either, hence why i'm sitting on this stone admiring the occasional fish jumping across the pond";
+		myText[i]		= "I couldn't sleep either, hence why i'm sitting on this stone admiring the occasional fish jumping across the pond.";
 		mySpeaker[i]	= id;
 		
 		//Line 2
@@ -21,9 +21,11 @@ reset_dialogue_defaults();
 		
 		//Line 3
 		i++;
-		myText[i]		= "Why don't you grab that fishing rod by the house? Let me teach you something";
-		myEffects[i]	= [25,2, 37,0];
+		myText[i]		= "Why don't you grab that Fishing Rod by the house? Let me teach you something.";
+		myEffects[i]	= [25,1, 37,0];
 		mySpeaker[i]	= id;
+		myTextCol[i]	= [25, c_red, 37, c_white];
+		
 		
 		
 	
