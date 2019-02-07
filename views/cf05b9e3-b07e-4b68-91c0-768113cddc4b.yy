@@ -16,7 +16,8 @@
         "fcd19157-5b18-41ed-9b59-9333d98184b4",
         "b32be02c-baed-4356-b72c-c5bf333c7c61",
         "fd691307-e846-4d97-a99f-21aaf6e387fb",
-        "a5fdaf19-c112-4a66-8ac4-013aa17bff48"
+        "a5fdaf19-c112-4a66-8ac4-013aa17bff48",
+        "9051e13e-58ea-4d2a-8f5d-25ca98e8230b"
     ],
     "filterType": "GMSprite",
     "folderName": "FC_DialogueSystem",

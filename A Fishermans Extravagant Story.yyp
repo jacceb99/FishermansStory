@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "0f85f669-6aed-4b9e-b203-f7263bc7c6fd",
+            "Value": {
+                "id": "7216d57a-c2e0-460f-8e8c-a29118a03ab4",
+                "resourcePath": "objects\\TheKraken\\TheKraken.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "109d1265-8d8f-4492-af97-7f6f9c333e59",
             "Value": {
                 "id": "fe09f304-ba15-4ec3-8cb4-a21897432d17",
@@ -308,6 +316,14 @@
                 "id": "578d94aa-8922-42b0-9e74-594887f1c9bf",
                 "resourcePath": "scripts\\use_FishingRod\\use_FishingRod.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "11e6966b-d1b1-44a2-a6ac-c1bae1c3f1de",
+            "Value": {
+                "id": "c6c7b6b2-0d7e-45f4-a05d-f495172c3d2d",
+                "resourcePath": "sprites\\sMojniIdle11\\sMojniIdle11.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -459,6 +475,14 @@
             "Value": {
                 "id": "2114ac66-18ba-46de-bc2c-bf4538190ff2",
                 "resourcePath": "sprites\\sprite206\\sprite206.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "199f07b7-cf3c-43df-9ab1-89a7c398358f",
+            "Value": {
+                "id": "312847b4-a795-4a1a-8a07-898872c88720",
+                "resourcePath": "sprites\\sprite214\\sprite214.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1767,6 +1791,14 @@
             }
         },
         {
+            "Key": "7675c10c-4898-43e0-9775-9451d61b9a6d",
+            "Value": {
+                "id": "91c7c56b-7820-45b8-b9c9-8570de862f5c",
+                "resourcePath": "sprites\\sTheKraken\\sTheKraken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "76a4b62e-c7c4-450b-9767-285a390c7905",
             "Value": {
                 "id": "a4dd99bb-7e9f-4f1e-b3f3-5f8929855ef7",
@@ -2015,6 +2047,14 @@
             }
         },
         {
+            "Key": "8c4bfe25-8983-4d40-8723-bf3787e8c913",
+            "Value": {
+                "id": "8510a632-682d-4168-93b1-1186d1e7ce21",
+                "resourcePath": "sprites\\sPortraitTheKraken\\sPortraitTheKraken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8c842806-d505-4729-90ed-2cb599e10bce",
             "Value": {
                 "id": "a2951703-9652-4a72-94e1-1516c7123c31",
@@ -2068,6 +2108,14 @@
                 "id": "94600ede-0959-48ba-b17b-385aa9fb85ea",
                 "resourcePath": "sprites\\sPortraitBigBroIdle\\sPortraitBigBroIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9051e13e-58ea-4d2a-8f5d-25ca98e8230b",
+            "Value": {
+                "id": "78dbc277-742a-435f-8fc9-0f01bfa7c3b2",
+                "resourcePath": "views\\9051e13e-58ea-4d2a-8f5d-25ca98e8230b.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -2268,6 +2316,14 @@
                 "id": "f54f21fa-0f54-45d5-a81d-06b7af8e2588",
                 "resourcePath": "scripts\\inv_UseItem\\inv_UseItem.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9c0269d7-27da-4940-9a56-3d840345c0c9",
+            "Value": {
+                "id": "12706e5e-2a71-498e-8ec7-e90ee1a45378",
+                "resourcePath": "sprites\\sTileSetGrassBiome1\\sTileSetGrassBiome1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2548,6 +2604,14 @@
                 "id": "71929984-64ef-4f62-8a20-de6994ab35c6",
                 "resourcePath": "scripts\\loot_add\\loot_add.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b1ac0b15-3cfa-4f30-961f-7337e65258d1",
+            "Value": {
+                "id": "2f8f829c-367b-47c0-8e7f-8103bdc74e86",
+                "resourcePath": "views\\b1ac0b15-3cfa-4f30-961f-7337e65258d1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

@@ -7,7 +7,8 @@
         "f8a3e379-5ad6-4538-9c37-697445435f77",
         "5918692d-d675-4520-9eed-a3ddb610b04b",
         "8d967d4a-8d24-45b4-bf4b-c7e693147a45",
-        "2228b251-de1d-4006-89da-8ecdf9e622a6"
+        "2228b251-de1d-4006-89da-8ecdf9e622a6",
+        "0f85f669-6aed-4b9e-b203-f7263bc7c6fd"
     ],
     "filterType": "GMObject",
     "folderName": "Npc's",

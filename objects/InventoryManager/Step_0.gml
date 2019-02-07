@@ -34,6 +34,8 @@ growthStage=maxGrowthStage;
 
 #endregion
 
+
+
 #region When G is pressed the player will drop an itemm
 if keyboard_check_pressed(ord("G"))
 {
