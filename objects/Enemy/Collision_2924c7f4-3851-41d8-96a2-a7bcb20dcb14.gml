@@ -6,7 +6,7 @@ if letsBattle=0
  var inst=instance_create_depth(x,y,0,Battle);
  with inst
  {
-BattleSequence=BattleMojni;	 
+BattleSequence="Mojni";	 
  }
  
  

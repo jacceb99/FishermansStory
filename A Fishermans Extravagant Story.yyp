@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "135323ac-bcdd-40c1-a094-efb72ef6a561",
+            "Value": {
+                "id": "a6404791-3328-4214-8f83-b2858787344f",
+                "resourcePath": "objects\\Par_Dangerous\\Par_Dangerous.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1374ac67-e96c-49e4-8d9d-06ccd8b3dd35",
             "Value": {
                 "id": "6ceb9682-3f5d-4285-af58-2ed15a9a3ba6",
@@ -699,6 +707,14 @@
             "Value": {
                 "id": "7fb84b16-d636-4085-83fd-492bf3d7b482",
                 "resourcePath": "sprites\\sPortraitLilTimp\\sPortraitLilTimp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25882ec4-751c-45c2-97aa-e319cefa209e",
+            "Value": {
+                "id": "82b1479c-ae03-43f6-8503-437ac50a0eb5",
+                "resourcePath": "sprites\\sMojniIdleSweaty\\sMojniIdleSweaty.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1559,6 +1575,14 @@
             }
         },
         {
+            "Key": "67dcfc24-c1d1-4a7b-bd11-11458e74af34",
+            "Value": {
+                "id": "a63fa05d-5f17-4073-a360-391de966fbcb",
+                "resourcePath": "objects\\MojniSpike\\MojniSpike.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6923a170-b73f-44df-8e31-c393650773b6",
             "Value": {
                 "id": "ca171276-351d-45f8-b15d-70ff0b880767",
@@ -2332,6 +2356,14 @@
                 "id": "5060062a-f025-4ab3-b209-51f70098ddb0",
                 "resourcePath": "scripts\\use_Sell\\use_Sell.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9d4d87d4-c88b-424f-8cfa-e21439dbc37f",
+            "Value": {
+                "id": "faf7d64e-3ebf-4a95-a408-d3f3407817c7",
+                "resourcePath": "views\\9d4d87d4-c88b-424f-8cfa-e21439dbc37f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3276,6 +3308,14 @@
                 "id": "05285cf1-744d-4e84-99ac-71416432ea38",
                 "resourcePath": "objects\\EnvironmentPillar\\EnvironmentPillar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e71521c5-ff69-421a-a477-bced12989511",
+            "Value": {
+                "id": "7a052bc2-918f-4184-b03a-3d5215a9c5a6",
+                "resourcePath": "fonts\\fnt_hp\\fnt_hp.yy",
+                "resourceType": "GMFont"
             }
         },
         {

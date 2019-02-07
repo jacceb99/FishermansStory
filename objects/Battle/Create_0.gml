@@ -2,7 +2,7 @@
 // You can write your code in this editor
 prevx=Character.y;
 prevy=Character.x;
-startbattle=0;
+
 
 //Everything to do with the screen fade
 
@@ -16,5 +16,11 @@ fade=1;
 //Getting sprite height of battle slot
 sh=sprite_get_height(sBattleSlot);
 
-//
+//Attack variables
 BattleSequence=0;
+attack=0;
+start=0;
+part=1;
+
+//Hp variable
+hp=20;

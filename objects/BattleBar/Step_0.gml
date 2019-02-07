@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-key_up= mouse_check_button(mb_left);
-key_down= mouse_check_button(mb_right);
+key_up= keyboard_check(vk_up);
+
 
 
 movev =0 - key_up;
